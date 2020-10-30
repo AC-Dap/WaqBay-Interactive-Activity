@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: plants+animals
+    uniqueID: 1821570447
+    locked: 0
+  - name: muck
+    uniqueID: 4261714401
+    locked: 0
+  - name: Foreground
+    uniqueID: 3131966849
+    locked: 0
